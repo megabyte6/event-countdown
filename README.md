@@ -1,2 +1,2 @@
-# christmas-countdown
-Countdown until next Christmas :)
+# Event Countdown
+Countdown until next Calendar event :)
