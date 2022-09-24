@@ -1,4 +1,4 @@
-@keyframes fade-in-all {
+/* @keyframes fade-in-all {
     0% {
         opacity: 1;
     }
@@ -41,4 +41,11 @@
     animation: fade-in-all 1s normal both;
     -webkit-animation-delay: 0.3s;
     animation-delay: 0.3s;
+} */
+
+section {
+    display: grid;
+    place-items: center;
+    align-content: center;
+    min-height: 100vh;
 }
