@@ -1,5 +1,5 @@
-window.onload = function() {
-    setTimeout(function() {
-        document.getElementById("fade-in").remove();
-    }, 1000);
-}
+// window.onload = function() {
+//     setTimeout(function() {
+//         document.getElementById("fade-in").remove();
+//     }, 1000);
+// }

@@ -43,6 +43,14 @@
     animation-delay: 0.3s;
 } */
 
+body {
+    background-color: lightgrey;
+}
+
+h1 {
+    font-size: 5vw;
+}
+
 section {
     display: grid;
     place-items: center;
